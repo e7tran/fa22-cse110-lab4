@@ -16,19 +16,19 @@
     D. student['Favorite Teacher'].name  
     E. student.courseLoad[0]  
 13. Arithmetic
-    A. '3' + 2 = '32', because 2 is converted into a string and appended to '3'
-    B. '3' - 2 = 1, because '3' is converted into a number and so 3-2 = 1
-    C. 3 + null = 3, because null is interpreted as 0 so 3+0 = 3
-    D. '3' + null = 3null, because null is converted to a string and appended to '3'
-    E. true + 3 = 4, because true evaluates to 1 and 1+3 = 4
-    F. false + null = 0, because both false and null evaluate to 0
-    G. '3' + undefined = '3undefined', because undefined is converted to a string
-    H. '3' - undefined = NaN, because undefined evaluates to NaN 
+    A. '3' + 2 = '32', because 2 is converted into a string and appended to '3'  
+    B. '3' - 2 = 1, because '3' is converted into a number and so 3-2 = 1  
+    C. 3 + null = 3, because null is interpreted as 0 so 3+0 = 3  
+    D. '3' + null = 3null, because null is converted to a string and appended to '3'  
+    E. true + 3 = 4, because true evaluates to 1 and 1+3 = 4  
+    F. false + null = 0, because both false and null evaluate to 0  
+    G. '3' + undefined = '3undefined', because undefined is converted to a string  
+    H. '3' - undefined = NaN, because undefined evaluates to NaN  
 14. Comparison
-    A. '2' > 1 = true, because '2' is converted to a number for comparison
-    B. '2' < '12' = false, because both are converted to numbers for comparison
-    C. 2 == '2' = true, because '2' is converted to a number for comparison
-    D. 2 === '2' = false, because triple equal compares typeof and number is not the same as string
-    E. true == 2, false because true is equal to 1
-    F. true === Boolean(2) = true, because both sides are of type boolean
-15. == is for comparing values of two variables , and === is for comparing values and data type of two variables
+    A. '2' > 1 = true, because '2' is converted to a number for comparison  
+    B. '2' < '12' = false, because both are converted to numbers for comparison  
+    C. 2 == '2' = true, because '2' is converted to a number for comparison  
+    D. 2 === '2' = false, because triple equal compares typeof and number is not the same as string  
+    E. true == 2, false because true is equal to 1  
+    F. true === Boolean(2) = true, because both sides are of type boolean  
+15. == is for comparing values of two variables , and === is for comparing values and data type of two variables  
