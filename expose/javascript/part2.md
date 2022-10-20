@@ -32,4 +32,4 @@
     E. true == 2, false because true is equal to 1  
     F. true === Boolean(2) = true, because both sides are of type boolean  
 15. == is for comparing values of two variables , and === is for comparing values and data type of two variables  
-16. It will double the values of the original array, so it will return [2, 4, 6]. modifyArray first creates newArr and loops through the given array pushing the result of doSomething(array[i]), which returns 2 times the input, into the newArr.
+17. It will double the values of the original array, so it will return [2, 4, 6]. modifyArray first creates newArr and loops through the given array pushing the result of doSomething(array[i]), which returns 2 times the input, into the newArr.  
