@@ -15,7 +15,7 @@
     C. student.greeting  
     D. student['Favorite Teacher'].name  
     E. student.courseLoad[0]  
-13. Arithmetic
+13. Arithmetic  
     A. '3' + 2 = '32', because 2 is converted into a string and appended to '3'  
     B. '3' - 2 = 1, because '3' is converted into a number and so 3-2 = 1  
     C. 3 + null = 3, because null is interpreted as 0 so 3+0 = 3  
@@ -24,7 +24,7 @@
     F. false + null = 0, because both false and null evaluate to 0  
     G. '3' + undefined = '3undefined', because undefined is converted to a string  
     H. '3' - undefined = NaN, because undefined evaluates to NaN  
-14. Comparison
+14. Comparison  
     A. '2' > 1 = true, because '2' is converted to a number for comparison  
     B. '2' < '12' = false, because both are converted to numbers for comparison  
     C. 2 == '2' = true, because '2' is converted to a number for comparison  
